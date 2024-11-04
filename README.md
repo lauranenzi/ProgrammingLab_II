@@ -5,7 +5,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 ## Informazioni
 **Docente:** Laura Nenzi [lnenzi@units.it](mailto:lnenzi@units.it)
 
-**Aula ed orario:** Mercoledì 9-12, aula T_A, edificio D [Via Alfonso Valerio, 4].
+**Aula ed orario:** Mercoledì 9-12, aula T_A, edificio D, Via Alfonso Valerio, 4.
 
 **Esame**: progetto + orale
 
