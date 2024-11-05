@@ -18,13 +18,12 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 - **Lezione 1** (06/11/2024):
 
-     - Prima ora: Introduzione e strumenti | [slides](slides/Parte1.pdf)
-     - Seconda ora: Python -  intro, tipi dati, costrutti, funzioni, moduli, be pythonic  [slides](slides/Parte2.pdf)
+     - Prima e Seconda ora: Introduzione e Strumenti | [slides](slides/Parte1.pdf)
      - Terza ora: settare l'ambiente inizio esercizi
 
 - **Lezione 2** (13/11/2024):
 
-    - Prima ora: esercizio base su Python
+    - Prima ora: tipi dati, costrutti, funzioni, moduli, be pythonic 
     - Seconda/ Terza ora: lambda expression, filter map reduce, interagire con i file ed il formato CSV 
 
       
