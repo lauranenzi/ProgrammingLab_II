@@ -24,7 +24,8 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 - **Lezione 2** (13/11/2024):
 
     - Prima ora: tipi dati, costrutti, funzioni, moduli, be pythonic 
-    - Seconda/ Terza ora: lambda expression, filter map reduce, interagire con i file ed il formato CSV 
+    - Seconda ora: Esercitazione
+    - Seconda: lambda expression, filter map reduce, interagire con i file ed il formato CSV
 
       
 
