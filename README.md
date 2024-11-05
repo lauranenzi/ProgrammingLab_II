@@ -7,7 +7,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 **Aula ed orario:** Mercoledì 9-12, aula T_A, edificio D, Via Alfonso Valerio, 4.
 
-**Esame**: Esame scritto + orale se richiesto dal docente
+**Esame**: Esame scritto + orale 
 
 **Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](mailto:lucrezia.valeriani@phd.units.it) e [valentina.blasone@phd.units.it](mailto:valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
