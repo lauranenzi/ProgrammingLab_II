@@ -17,17 +17,40 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 ## Lezioni e slides
 
 - **Lezione 1** (06/11/2024):
-
      - Prima e Seconda ora: Introduzione e Strumenti | [slides](slides/Parte1.pdf)
-     - Terza ora: settare l'ambiente inizio esercizi
+     - Terza ora: settare l'ambiente 
 
 - **Lezione 2** (13/11/2024):
-
-    - Prima ora: tipi dati, costrutti, funzioni, moduli, be pythonic 
-    - Seconda ora: Esercitazione
-    - Seconda: lambda expression, filter map reduce, interagire con i file ed il formato CSV
-
+     - Prima ora: esercitazione
+     - Seconda e Terza ora: Tipi dati, costrutti, funzioni, moduli, be pythonic
       
+- **Lezione 3** (20/11/2024):
+     - Prima ora: esercitazione
+     - Seconda e Terza ora: lambda expression, filter map reduce, interagire con i file ed il formato CSV
+ 
+- **Lezione 4** (27/11/2024):
+     - Prima ora: esercitazione
+     - Seconda e Terza ora: gli oggetti in python
+
+- **Lezione 5** (03/12/2024):
+     - Prima ora: esercitazione
+     - Seconda ora: le eccezioni ed il flusso try-except
+     - Terza ora: esercitazione
+
+- **Lezione 6** (04/12/2024):
+     - Prima ora: controllo degli input e sanitizzazione
+     - Seconda ora: esercitazione
+     - Terza ora: testing e unit tests
+ 
+- **Lezione 7** (17/12/2024):
+     - Prima ora: esercitazione
+     - Seconda e terza ora: lavorare veramente - creiamo e fittiamo un modelo
+
+- **Lezione 8** (18/12/2024):
+     - Prima ora: esercitazione
+     - Seconda ora:  lavorare veramente - valutiamo un modello
+     - Terza ora: soluzioni, discussione e conclusione del corso
+
 
 ## Modalità di esame
 TBA
