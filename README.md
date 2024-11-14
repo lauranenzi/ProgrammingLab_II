@@ -22,7 +22,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 - **Lezione 2** (13/11/2024):
      - Prima ora: esercitazione
-     - Seconda e Terza ora: Tipi dati, costrutti, funzioni, moduli, be pythonic | [slides](slides/Parte2.pdf), [Notebook link(https://drive.google.com/file/d/1JOQedD1rIVdrtHvyLRHEbHQC0M1ci5c7/view?usp=sharing)]
+     - Seconda e Terza ora: Tipi dati, costrutti, funzioni, moduli, be pythonic | [slides](slides/Parte2.pdf), [Colab Notebook link(https://drive.google.com/file/d/1JOQedD1rIVdrtHvyLRHEbHQC0M1ci5c7/view?usp=sharing)]
       
 - **Lezione 3** (20/11/2024):
      - Prima ora: esercitazione
