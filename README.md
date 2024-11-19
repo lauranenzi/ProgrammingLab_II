@@ -26,7 +26,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
       
 - **Lezione 3** (20/11/2024):
      - Prima ora: esercitazione
-     - Seconda e Terza ora: list comprehension, interagire con i file ed il formato CSV
+     - Seconda e Terza ora: recap liste e list comprehension, interagire con i file ed il formato CSV
  
 - **Lezione 4** (27/11/2024):
      - Prima ora: esercitazione
