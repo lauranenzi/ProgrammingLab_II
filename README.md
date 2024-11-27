@@ -30,7 +30,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
  
 - **Lezione 4** (27/11/2024):
      - Prima ora: esercitazione
-     - Seconda e Terza ora: gli oggetti in python
+     - Seconda e Terza ora: gli oggetti in python  | [slides](slides/Parte4.pdf)
 
 - **Lezione 5** (03/12/2024):
      - Prima ora: esercitazione
