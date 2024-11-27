@@ -96,7 +96,6 @@ def lettere_iniziali(file_name):
 # con chiave la prima parola di ogni frase e valore il numero di volte che una frase inizia 
 # con quella parola. Considerare come inizio di frase qualsiasi parola che segue un punto, 
 # un punto esclamativo, un punto interrogativo o si trova all'inizio del testo.
-
 def conteggio(file_name):
     # Inizializzo un dizionario vuoto
     dizionario = {}
