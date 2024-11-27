@@ -172,7 +172,7 @@ def conteggio_v2(file_name):
 def rimuovi_duplicato(file_name):
 
     # Leggo riga per riga 
-    with open(file_path, 'r') as file:
+    with open(file_name, 'r') as file:
         lista_righe = file.readlines()
     
     # Inizializzo una lista vuota che conterrà le righe già viste
