@@ -60,7 +60,7 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
-Apelli I semestre:
+I semestre:
 - 7 Febbraio
      - Ia turno 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
      - Ib turno 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
