@@ -53,8 +53,24 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 
 ## Modalità di esame
-TBA
+La modalità d'esame è la seguente:
+- Esame scritto di 3 ore al computer in un'aula d'informatica dell'università
+- L’ultima lezione faremo un’esercitazione\simulazione d’esame
+- L’orale è facoltativo se lo scritto è >= 18, obbligatorio se il voto è 16,17 ed obbligatorio a discrezione del docente se vengono rilevate dele irregolarità
+- La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
+## Appelli d'esame
+Apelli I semestre:
+- 7 Febbraio
+     - Ia turno 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+     - Ib turno 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
+     - IIa turno 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+     - IIb turno 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
+- 21 Febbraio
+     - Ia turno 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+     - Ib turno 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
+     - IIa turno 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+     - IIb turno 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 
 
 ## Licenza d'uso
