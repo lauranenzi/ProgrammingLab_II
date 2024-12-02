@@ -42,14 +42,18 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
      - Seconda ora: esercitazione
      - Terza ora: testing e unit tests
  
+- **Lezione 6bis** (11/12/2024):
+     - esercitazioni 
+
 - **Lezione 7** (17/12/2024):
-     - Prima ora: esercitazione
-     - Seconda e terza ora: lavorare veramente - creiamo e fittiamo un modelo
+     - Prima ora: lavorare veramente - creiamo un modello
+     - Seconda ora: esercitazione
+     - Terza ora: lavorare veramente - fittiamo un modello
 
 - **Lezione 8** (18/12/2024):
-     - Prima ora: esercitazione
-     - Seconda ora:  lavorare veramente - valutiamo un modello
-     - Terza ora: soluzioni, discussione e conclusione del corso
+     - Prima ora: lavorare veramente - valutiamo un modello
+     - Seconda ora:  esercitazione
+     - Terza ora: discussione e conclusione del corso
 
 
 ## Modalità di esame
