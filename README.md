@@ -33,14 +33,13 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
      - Seconda e Terza ora: gli oggetti in python  | [slides](slides/Parte4.pdf)
 
 - **Lezione 5** (03/12/2024):
-     - Prima ora: esercitazione
-     - Seconda ora: le eccezioni ed il flusso try-except
-     - Terza ora: esercitazione
+     - Prima ora e Seconda ora: : esercitazione e gestione degli errori
+     - Terza ora: controllo degli input e sanitizzazione
 
 - **Lezione 6** (04/12/2024):
-     - Prima ora: controllo degli input e sanitizzazione
-     - Seconda ora: esercitazione
-     - Terza ora: testing e unit tests
+     - Prima ora:  esercitazione
+     - Seconda ora: testing e unit tests
+     - Terza Ora: esercitazione 
  
 - **Lezione 6bis** (11/12/2024):
      - esercitazioni 
