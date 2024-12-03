@@ -33,8 +33,8 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
      - Seconda e Terza ora: gli oggetti in python  | [slides](slides/Parte4.pdf)
 
 - **Lezione 5** (03/12/2024):
-     - Prima ora e Seconda ora: : esercitazione e gestione degli errori
-     - Terza ora: controllo degli input e sanitizzazione
+     - Prima ora e Seconda ora: : esercitazione e gestione degli errori | [slides](slides/Parte5.pdf)
+     - Terza ora: controllo degli input e sanitizzazione | [slides](slides/Parte6.pdf)
 
 - **Lezione 6** (04/12/2024):
      - Prima ora:  esercitazione
