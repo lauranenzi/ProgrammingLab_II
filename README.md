@@ -38,7 +38,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 - **Lezione 6** (04/12/2024):
      - Prima ora:  esercitazione
-     - Seconda ora: testing e unit tests
+     - Seconda ora: testing e unit tests  | [slides](slides/Parte7.pdf)
      - Terza Ora: esercitazione 
 
 - **Lezione 7** (17/12/2024):
