@@ -47,7 +47,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
      - Terza ora: lavorare veramente - fittiamo un modello | [slides](slides/Parte9.pdf)
 
 - **Lezione 8** (18/12/2024):
-     - Prima ora: lavorare veramente - valutiamo un modello
+     - Prima ora: lavorare veramente - valutiamo un modello | [slides](slides/Parte10.pdf)
      - Seconda ora:  esercitazione
      - Terza ora: discussione e conclusione del corso
 
