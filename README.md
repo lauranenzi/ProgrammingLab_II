@@ -12,7 +12,8 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 **Materiale:** Ci sono le [dispense](DispenseProgLab_Russo.pdf) che saranno aggiornate lezione dopo lezione e ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
-- Tutorato il 28 gennaio 2025, Aula 2B, edificio H3 dalle 10 alle 12
+- [10/01/2025] Aggiornata la dispensa 
+- [18/12/2024] Tutorato il 28 gennaio 2025, Aula 2B, edificio H3 dalle 10 alle 12
 
 ## Lezioni e slides
 
