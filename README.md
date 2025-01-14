@@ -13,7 +13,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 ## News
 - [10/01/2025] Aggiornata la dispensa
-- [07/01/2025] Apelli d'esame della versione invernale su esse3
+- [07/01/2025] Apelli d'esame della sessione invernale su esse3
 - [18/12/2024] Tutorato il 28 gennaio 2025, Aula 2B, edificio H3 dalle 10 alle 12
 
 ## Lezioni e slides
