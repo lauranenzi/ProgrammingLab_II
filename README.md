@@ -57,8 +57,9 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
-- Esame scritto di 3 ore al computer in un'aula d'informatica dell'università
+- Esame scritto di 3 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code. La connessione internet non sarà presente. L'aula dipenderà da quanti siete e se siete veramente troppi dovremmo fare una sessione pomeridiana. L'aula sarà comunicata il giorno prima dell'esame quando saranno chiuse le iscrizioni.
 - L’ultima lezione faremo un’esercitazione\simulazione d’esame
+- Possono sostenere l'esame solo gli studenti che hanno passato la parte del prof. Caravagna.
 - L’orale è facoltativo se lo scritto è >= 18, obbligatorio se il voto è 16,17 ed obbligatorio a discrezione del docente se vengono rilevate dele irregolarità
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
