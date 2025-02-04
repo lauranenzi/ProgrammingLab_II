@@ -12,6 +12,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 **Materiale:** Ci sono le [dispense](DispenseProgLab_Russo.pdf) che saranno aggiornate lezione dopo lezione e ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
+- [04/02/2025] Sotto richiesta degli studenti di AIDA, l'esame del secondo appello, il 27 Febbraio, sarà il pomeriggio, 14:00-17:00.
 - [31/01/2025] Aggiunta soluzione seconda esercitazione
 - [21/01/2025] Aggiunta seconda esercitazione che sarà molto simile all'esame, vi consiglio vivamente di farla e di andare al tutorato del 28/01
 - [10/01/2025] Aggiornata la dispensa
