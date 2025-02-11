@@ -70,13 +70,9 @@ I semestre:
 - 7 Febbraio
      - 1a turno: 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
      - 1b turno: 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
-     - 2a turno: 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
-     - 2b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 - 27 Febbraio
-     - 1a turno: 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
-     - 1b turno: 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
-     - 2a turno: 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
-     - 2b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
+     - 1a turno: 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+     - 1b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 
 
 ## Licenza d'uso
