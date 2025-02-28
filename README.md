@@ -12,6 +12,8 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 **Materiale:** Ci sono le [dispense](DispenseProgLab_Russo.pdf) che saranno aggiornate lezione dopo lezione e ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
+- [28/02/2025] Le lezioni per il Laboratorio di Programmazione 2 inizieranno la settimana successiva, Giovedì 13 Marzo.
+- [28/02/2025] Orali e Visioni esami secondo appello Giovedì 6 Marzo, ore 10, aula 2A Morin, Edificio H2Bis.
 - [19/02/2025] Orali e Visioni esami primo appello saranno Lunedì 24 Febbraio in aula T_C ed D dalle 10 alle 14.  
 - [04/02/2025] Sotto richiesta degli studenti di AIDA, l'esame del secondo appello, il 27 Febbraio, sarà il pomeriggio, 14:00-17:00.
 - [31/01/2025] Aggiunta soluzione seconda esercitazione
