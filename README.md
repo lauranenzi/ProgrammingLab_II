@@ -31,7 +31,6 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
-I semestre:
            
 
 
