@@ -1,4 +1,4 @@
-# LABORATORIO DI PROGRAMMAZIONE I
+# LABORATORIO DI PROGRAMMAZIONE II
 
 Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificiale e per Statistica dell'Università degli studi di Trieste.
 
