@@ -17,7 +17,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 ## Lezioni e slides
 
 - **Lezione 1** (13/03/2025):
-     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python| [materiale_lezione](materiale_lezioni/Lezione 2)
+     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python| [materiale_lezione](materiale_lezioni/Lezione_1)
      - Seconda e Terza ora: Numpy e settare l'ambiente di lavoro
 
 
