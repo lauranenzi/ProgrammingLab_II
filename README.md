@@ -9,7 +9,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 **Aiuto:** La modalità principale è chiedere ai tutor: [michel.elsaliby@phd.units.it](mailto:michel.elsaliby@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
-**Materiale:** Ci sono le [slides](materiale_lezione) ed i [notebook](materiale_lezione), che trovate qui sotto, assieme agli esercizi (sia proposti dal tutor che da me, in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide delle prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
+**Materiale:** Ci sono le [slides](materiale_lezioni) ed i [notebook](materiale_lezioni), che trovate qui sotto, assieme agli esercizi (sia proposti dal tutor che da me, in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide delle prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
 
 ## News
 -
@@ -17,7 +17,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 ## Lezioni e slides
 
 - **Lezione 1** (13/03/2025):
-     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python| [materiale_lezione](materiale_lezione/Lezione 2)
+     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python| [materiale_lezione](materiale_lezioni/Lezione 2)
      - Seconda e Terza ora: Numpy e settare l'ambiente di lavoro
 
 
