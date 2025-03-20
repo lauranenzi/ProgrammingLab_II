@@ -20,6 +20,13 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
      - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python | [materiale_lezione](materiale_lezioni/Lezione1)
      - Seconda e Terza ora: Numpy e settare l'ambiente di lavoro
 
+- **Lezione 2** (20/03/2025):
+     - Prima ora: Esercitazione | [esercizi 1](esercizi/1_Esercizi_lez_1.ipynb)
+     - Seconda e Terza ora: Numpy | [materiale_lezione](materiale_lezioni/Lezione2)
+
+- **Lezione 3** (27/03/2025):
+     - Prima ora: Introduzione Esercitazione | [esercizi 2](esercizi/2_Esercizi_lez_2.ipynb)[materiale_lezione](materiale_lezioni/Lezione1)
+     - Seconda e Terza ora: Pandas
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
