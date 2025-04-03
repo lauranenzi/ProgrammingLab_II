@@ -28,9 +28,10 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
      - Prima ora: Esercitazione | [esercizi 2](esercizi/2_Esercizi_lez_2.ipynb)
      - Seconda e Terza ora: Pandas e qualcosa di Matplotlib| [materiale_lezione](materiale_lezioni/Lezione3)
  
-- **Lezione 3** (27/03/2025):
+- **Lezione 4** (03/04/2025):
      - Prima ora: Esercitazione | [esercizi 3](esercizi/3_Esercizi_lez_3.ipynb)
-     - Seconda e Terza ora: Pandas, Matplotlib e Seaborn
+     - Seconda e Terza ora: Statistica descrittiva, Matplotlib, Seaborn, Pandas
+       
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
