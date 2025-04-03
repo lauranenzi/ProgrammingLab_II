@@ -17,7 +17,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 ## Lezioni e slides
 
 - **Lezione 1** (13/03/2025):
-     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python | [materiale_lezione](materiale_lezioni/Lezione1)
+     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python | [Lezione 1](materiale_lezioni/Lezione1)
      - Seconda e Terza ora: Numpy e settare l'ambiente di lavoro
 
 - **Lezione 2** (20/03/2025):
@@ -30,7 +30,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
  
 - **Lezione 4** (03/04/2025):
      - Prima ora: Esercitazione | [esercizi 3](esercizi/3_Esercizi_lez_3.ipynb)
-     - Seconda e Terza ora: Statistica descrittiva, Matplotlib, Seaborn, Pandas
+     - Seconda e Terza ora: Statistica descrittiva, Matplotlib, Seaborn, Pandas | [materiale_lezione](Lezion 4/Lezione4)
        
 
 ## Modalità di esame
