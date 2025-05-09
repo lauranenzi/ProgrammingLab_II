@@ -50,6 +50,12 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
+Il link al repository va consegnato entro il giorno dell'esame.
+
+Sessione Estiva:
+- 24 Giugno: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+   
+- 22 Luglio: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
            
 
 
