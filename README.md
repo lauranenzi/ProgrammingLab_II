@@ -61,7 +61,7 @@ La modalità d'esame è la seguente:
 Il link al repository va consegnato entro il giorno dell'esame.
 
 Sessione Estiva:
-- 24 Giugno: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 27 Giugno: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
    
 - 22 Luglio: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
            
