@@ -40,6 +40,14 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
      - Prima ora: Esercitazione | [esercizi 5](esercizi/5_Esercizi_lez_5.ipynb)
      - Seconda e Terza ora: Scipy a regressioe | [Lezione 6](materiale_lezioni/Lezione6)  
 
+- **Lezione 7** (15/05/2025):
+     - Prima ora: Esercitazione | [esercizi 6](esercizi/6_Esercizi_lez_6.ipynb)
+     - Seconda e Terza ora: Scikit-learn  e Plotly | [Lezione 7](materiale_lezioni/Lezione7)  
+
+- **Lezione 8** (22/05/2025):
+     - Prima e seconda ora: Simulazione d'esame | [testo simulazione](esami/simulazEsame.ipynb)
+     - Terza ora: correzione
+
 ## Modalità di esame
 La modalità d'esame è la seguente:
 - 20% del voto dipenderà dal repository di github in cui ogni settimana dovrete fare 2,3 esercizi
