@@ -38,7 +38,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 - **Lezione 6** (17/04/2025):
      - Prima ora: Esercitazione | [esercizi 5](esercizi/5_Esercizi_lez_5.ipynb)
-     - Seconda e Terza ora: Scipy a regressioe | [Lezione 6](materiale_lezioni/Lezione6)  
+     - Seconda e Terza ora: Scipy e regressione | [Lezione 6](materiale_lezioni/Lezione6)  
 
 - **Lezione 7** (15/05/2025):
      - Prima ora: Esercitazione | [esercizi 6](esercizi/6_Esercizi_lez_6.ipynb)
