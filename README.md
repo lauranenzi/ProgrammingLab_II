@@ -65,6 +65,10 @@ Sessione Estiva:
 - 27 Giugno: 14:30-16:30 Laboratorio Informatico inf01 ed inf02 in nell'Edificio D 
    
 - 22 Luglio: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
+ 
+- 28 Agosto: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
+
+- 11 Settembre: 15:00-17:00 laboratorio informatico Nettuno nell'Edificio C1
            
 
 
