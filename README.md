@@ -12,6 +12,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 **Materiale:** Ci sono le [slides](materiale_lezioni) ed i [notebook](materiale_lezioni), che trovate qui sotto, assieme agli esercizi (sia proposti dal tutor che da me, in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide delle prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
 
 ## News
+- [06/08/2025] Aggiunti testi appelli d'esame
 - [10/06/2025] Le modalità di esame sono state aggiornate considerando l'uso della piattaforma Moodle.
 
 ## Lezioni e slides
