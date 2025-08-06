@@ -12,7 +12,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 **Materiale:** Ci sono le [slides](materiale_lezioni) ed i [notebook](materiale_lezioni), che trovate qui sotto, assieme agli esercizi (sia proposti dal tutor che da me, in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide delle prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
 
 ## News
--
+- [10/06/2025] Le modalità di esame sono state aggiornate considerando l'uso della piattaforma Moodle.
 
 ## Lezioni e slides
 
@@ -38,7 +38,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 - **Lezione 6** (17/04/2025):
      - Prima ora: Esercitazione | [esercizi 5](esercizi/5_Esercizi_lez_5.ipynb)
-     - Seconda e Terza ora: Scipy a regressioe | [Lezione 6](materiale_lezioni/Lezione6)  
+     - Seconda e Terza ora: Scipy e regressione | [Lezione 6](materiale_lezioni/Lezione6)  
 
 - **Lezione 7** (15/05/2025):
      - Prima ora: Esercitazione | [esercizi 6](esercizi/6_Esercizi_lez_6.ipynb)
@@ -50,8 +50,9 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
-- 20% del voto dipenderà dal repository di github in cui ogni settimana dovrete fare 2,3 esercizi
-- 80% un esame scritto di 2 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code. La connessione internet non sarà presente a parte per accedere a Moodle dove troverete il testo d'esame e caricherete l'elaborato finale. L'aula dipenderà da quanti siete e se siete veramente troppi dovremmo fare una sessione pomeridiana. L'aula sarà comunicata il giorno prima dell'esame quando saranno chiuse le iscrizioni.
+- 20% del voto dipenderà dal repository di github in cui ogni settimana dovrete fare 2,3 esercizi. Il link del repository va consegnato il giorno dell'esame.
+- 80% un esame scritto di 2 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
+- La connessione internet non sarà presente ma potrete accedere alla pagina del corso su Moodle,  [link](https://moodle2.units.it/course/view.php?id=15363) ed alla documentazione online delle varie librerie viste a lezione (le pagine ufficiali di ogni libreria). Il giorno dell'esame troverete sulla pagine del corso su Moodle il testo dell'esame e dovrete caricare sulla stessa piattaforma l'elaborato finale. È essenziale quindi che chiunque voglia fare l'esame sia iscritto al corso del laboratorio su Moodle. 
 - L’ultima lezione faremo un’esercitazione\simulazione d’esame
 - Possono sostenere l'esame solo gli studenti che hanno passato la parte del prof. Caravagna. Possono quindi se vogliano fare contemporaneamente l'esame di Laboratorio 1 e 2.
 - L’orale è facoltativo se lo scritto è sufficiente, obbligatorio se il voto è quasi sufficiente ed obbligatorio a discrezione del docente se vengono rilevate dele irregolarità.
@@ -61,9 +62,13 @@ La modalità d'esame è la seguente:
 Il link al repository va consegnato entro il giorno dell'esame.
 
 Sessione Estiva:
-- 24 Giugno: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 27 Giugno: 14:30-16:30 Laboratorio Informatico inf01 ed inf02 in nell'Edificio D 
    
-- 22 Luglio: 14:30-16:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 22 Luglio: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
+ 
+- 28 Agosto: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
+
+- 11 Settembre: 15:00-17:00 laboratorio informatico Nettuno nell'Edificio C1
            
 
 
