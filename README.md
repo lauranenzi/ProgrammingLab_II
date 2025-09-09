@@ -51,7 +51,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
-- 20% del voto dipenderà dal repository di github in cui ogni settimana dovrete fare 2,3 esercizi. Il link del repository va consegnato entro il giorno dell'esame.
+- 20% del voto dipenderà dal repository di github in cui ogni settimana dovrete fare 2,3 esercizi. Il link del repository va consegnato entro il giorno dell'esame qui [link](https://units.sharepoint.com/:x:/s/PATC_CD2024_SM32_286SM_457053/EZp405sk-81ApAUPTQTFc-4B-bVvC6XiCNkR9pIlMBYZig?e=Egg6CQ).  Fate l'upload degli esercizi man mano che li fate, un repository consegnato con un solo commit con tutti gli esercizi a due giorni dall'esame, ad esempio, non sarà valutato come un buon repository.
 - 80% un esame scritto di 2 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
 - La connessione internet non sarà presente ma potrete accedere alla pagina del corso su Moodle,  [link](https://moodle2.units.it/course/view.php?id=15363) ed alla documentazione online delle varie librerie viste a lezione (le pagine ufficiali di ogni libreria). Il giorno dell'esame troverete sulla pagine del corso su Moodle il testo dell'esame e dovrete caricare sulla stessa piattaforma l'elaborato finale. È essenziale quindi che chiunque voglia fare l'esame sia iscritto al corso del laboratorio su Moodle. 
 - L’ultima lezione faremo un’esercitazione\simulazione d’esame
